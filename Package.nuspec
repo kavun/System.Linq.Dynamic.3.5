@@ -6,7 +6,7 @@
     <authors>Microsoft</authors>
     <owners>Microsoft</owners>
     <licenseUrl>http://opensource.org/licenses/ms-pl</licenseUrl>
-    <projectUrl>https://github.com/kavun/System.Linq.Dynamic.3.5E</projectUrl>
+    <projectUrl>https://github.com/kavun/System.Linq.Dynamic.3.5</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>System.Linq.Dynamic for .NET 3.5 compiled .dll packaged for NuGet</description>
     <tags>System Linq Dynamic .NET 3.5 dll NuGet</tags>
