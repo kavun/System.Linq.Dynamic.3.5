@@ -1,0 +1,10 @@
+c:\users\kreed\documents\visual studio 2010\Projects\System.Linq.Dynamic\System.Linq.Dynamic\obj\Debug\ResolveAssemblyReference.cache
+c:\users\kreed\documents\visual studio 2010\Projects\System.Linq.Dynamic\System.Linq.Dynamic\obj\Debug\ResGen.read.1.tlog
+c:\users\kreed\documents\visual studio 2010\Projects\System.Linq.Dynamic\System.Linq.Dynamic\obj\Debug\ResGen.write.1.tlog
+c:\users\kreed\documents\visual studio 2010\Projects\System.Linq.Dynamic\System.Linq.Dynamic\bin\Debug\System.Linq.Dynamic.dll
+c:\users\kreed\documents\visual studio 2010\Projects\System.Linq.Dynamic\System.Linq.Dynamic\bin\Debug\System.Linq.Dynamic.pdb
+c:\users\kreed\documents\visual studio 2010\Projects\System.Linq.Dynamic\System.Linq.Dynamic\bin\Debug\System.Linq.Dynamic.xml
+c:\users\kreed\documents\visual studio 2010\Projects\System.Linq.Dynamic\System.Linq.Dynamic\obj\Debug\Resources.resources
+c:\users\kreed\documents\visual studio 2010\Projects\System.Linq.Dynamic\System.Linq.Dynamic\obj\Debug\System.Linq.Dynamic.dll
+c:\users\kreed\documents\visual studio 2010\Projects\System.Linq.Dynamic\System.Linq.Dynamic\obj\Debug\System.Linq.Dynamic.xml
+c:\users\kreed\documents\visual studio 2010\Projects\System.Linq.Dynamic\System.Linq.Dynamic\obj\Debug\System.Linq.Dynamic.pdb
