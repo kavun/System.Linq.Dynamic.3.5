@@ -1,4 +1,4 @@
-# System.Linq.Dynamic
+# [System.Linq.Dynamic](https://www.nuget.org/packages/System.Linq.Dynamic.3.5/1.0)
 
 - compiled for .NET 3.5
 - packaged for NuGet
